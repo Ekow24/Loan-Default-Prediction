@@ -1,7 +1,7 @@
 
 ## 📚 Loan Default Prediction Using Machine Learning Algorithms
 
-Predicting loan defaults is crucial for financial institutions to mitigate risk and enhance decision-making. The report compares five machine learning algorithms—**Logistic Regression**, **Decision Trees**, **Random Forest**, **XGBoost**, and **Artificial Neural Networks (ANN)**—to predict loan default risk.
+Predicting loan defaults is crucial for financial institutions to mitigate risk and enhance decision-making. The report compares five machine learning algorithms namely **Logistic Regression**, **Decision Trees**, **Random Forest**, **XGBoost**, and **Artificial Neural Networks (ANN)** to predict loan default risk.
 
 Key data preprocessing steps include **feature engineering**, **label encoding**, and **hyperparameter tuning** using `RandomizedSearchCV`. Model performance was evaluated using **accuracy**, **precision**, **recall**, **F1 score**, and **AUC**. Among all models, **Random Forest**, **XGBoost**, and **ANN** outperformed Logistic Regression and Decision Trees across all metrics. The results are also compared with existing studies, highlighting the importance of model selection and optimization in predictive finance.
 
@@ -28,7 +28,7 @@ Key data preprocessing steps include **feature engineering**, **label encoding**
 
 ## 🗃️ Dataset Overview
 
-- **Source**: [Kaggle Dataset](#) *(Link to be added)*
+- **Source**: [Kaggle Dataset](#) *(https://www.kaggle.com/datasets/yasserh/loan-default-dataset)*
 - **Shape**: 148,670 rows × 34 columns  
 - **Target Variable**: `Status` (binary: Defaulted or Repaid)
 
