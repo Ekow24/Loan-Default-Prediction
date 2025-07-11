@@ -105,4 +105,11 @@ Key comparisons are visualized using the following plots located in the `images/
 ![Model Comparison Bar Chart](images/model_comparison.png)
 ![ROC Curve - All Models](images/roc_curves.png)
 
+## 👨‍💻 Author
+
+**Ekow Mills-Nketsiah**  
+Machine Learning Researcher 
+📧 *millsekow24@yahoo.com*  
+🔗 [linkedin Profile](https://www.linkedin.com/in/ekow-mills-nketsiah-667852329/)
+
 ---
